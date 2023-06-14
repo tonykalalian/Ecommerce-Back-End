@@ -9,9 +9,7 @@ class StripeService {
         currency: "usd",
       });
       return payment;
-    } catch (error) {
-      throw error;
-    }
+    } 
   }
 }
 
