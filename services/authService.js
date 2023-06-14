@@ -25,9 +25,7 @@ const authService = {
     try {
       const savedUser = await newUser.save();
       return savedUser;
-    } catch (err) {
-      throw err;
-    }
+    } 
   },
 
   login: async (loginData) => {
