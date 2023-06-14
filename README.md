@@ -71,4 +71,5 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## DeepScan Grade
 [![DeepScan grade](https://deepscan.io/api/teams/21387/projects/24868/branches/769937/badge/grade.svg?token=a1fa0980263b30233c0ddf1e9c3ed778290db2ee)](https://deepscan.io/dashboard#view=project&tid=21387&pid=24868&bid=769937)
