@@ -22,10 +22,10 @@ const authService = {
       password: encryptedPassword,
     });
 
-    try {
+ 
       const savedUser = await newUser.save();
       return savedUser;
-    } 
+
   },
 
   login: async (loginData) => {
