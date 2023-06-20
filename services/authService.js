@@ -34,7 +34,7 @@ const authService = {
     // Check if user exists
     const user = await User.findOne({ email });
     if (!user) {
-      throw "Email or password is incorrect";
+      throw "Email  password is incororrect";
     }
 
     // Decrypt the stored password and compare
