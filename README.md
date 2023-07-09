@@ -53,7 +53,7 @@ This is a web application for a Lebanese Heritage Clothese. It provides features
 5. Start the application:
 
 
-6. Open your web browser and access the application at `http://localhost:3000`.
+6. Open your web browser and access the application at `http://localhost:5000`.
 
 ## Usage
 
