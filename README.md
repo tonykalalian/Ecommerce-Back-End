@@ -1,6 +1,6 @@
-# Grocery Store Project
+# Sawani Backend - Lebanese Heritage Clothes Website
 
-This is a web application for a grocery store. It provides features such as user authentication, product management, shopping cart functionality, and order processing.
+This is a web application for a Lebanese Heritage Clothese. It provides features such as user authentication, product management, shopping cart functionality, and order processing.
 
 ## Table of Contents
 
