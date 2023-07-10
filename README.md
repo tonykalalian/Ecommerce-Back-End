@@ -1,4 +1,4 @@
-# Sawani Backend - Lebanese Heritage Clothes Website
+# Phoenicians Backend - Lebanese Heritage Clothes Website
 
 This is a web application for a Lebanese Heritage Clothese. It provides features such as user authentication, product management, shopping cart functionality, and order processing.
 
