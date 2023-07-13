@@ -22,44 +22,7 @@ mongoose
   .catch((err) => {
     console.log(err);
   });
-  // const newUser = new User({
-  //   username: "admin",
-  //   email: "admin@example.com",
-  //   password: "password123",
-  //   isAdmin: true,
-  // });
-  
-  // // Save the user to the database
-  // newUser.save()
-  //   .then(() => {
-  //     console.log("New user added successfully.");
-  //     mongoose.connection.close(); // Close the database connection after saving
-  //   })
-  //   .catch((error) => {
-  //     console.error("Error saving user:", error);
-  //     mongoose.connection.close(); // Close the database connection in case of error
-  //   });
-  // const newProduct = new Product({
-  //   title: "Tornado",
-  //   desc: "This is a Black medium shoes",
-  //   img: "https://media.istockphoto.com/id/148219720/photo/expensive-man-shoes-wedding-details.jpg?s=170667a&w=0&k=20&c=mEtjnRYpgy01wjN2R1XT7dnuY9Zdf1al4KOLcbFbLDo=",
-  //   categories: ["Shoes"],
-  //   size: ["M"],
-  //   color: ["white"],
-  //   price: 18.99,
-  //   inStock: true,
-  // });
-  // async function saveProduct() {
-  //   try {
-  //     const savedProduct = await newProduct.save();
-  //     console.log("Product saved successfully:", savedProduct);
-  //   } catch (error) {
-  //     console.error("Error saving product:", error);
-  //   }
-  // }
-  
-  // saveProduct();
-    
+      
 // Middleware
 app.use(cors());
 app.use(express.json());
